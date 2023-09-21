@@ -33,6 +33,7 @@ void scale(){
  fill(255,255,255);
  ellipse(140,285,10,10);
  ellipse(160,285,10,10);
+ fill(0);
  textSize(24);
  text("Press to help me grow hair!",10,400);
 }
